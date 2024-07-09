@@ -1,0 +1,4 @@
+analyzer:
+  errors:
+    unnecessary_nullable_for_final_variable_declarations: ignore
+include: package:flutter_lints/flutter.yaml
